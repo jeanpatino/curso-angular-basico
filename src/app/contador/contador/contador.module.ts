@@ -5,4 +5,6 @@ import { ContadorComponent } from './contador.component';
   declarations: [ContadorComponent],
   exports: [ContadorComponent],
 })
-export class ContadorModule {}
+export class ContadorModule {
+  //console.log("HOLA ");
+}
